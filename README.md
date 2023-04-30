@@ -41,6 +41,8 @@ ner is implemented which gives a sequence of action depending on the outcome
 of the planner, the data is published back to the raspberry Pi for the actuation.
 The user layer consists of Graphical User Interface (GUI) which provides insight
 real-time data like temperature, light intensity, soil moisture and humidity.
+
+
 ![image](https://user-images.githubusercontent.com/128833366/235347345-506d8f72-4012-4657-8281-dd09d5ad15ff.png)
 
 
