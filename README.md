@@ -1,6 +1,6 @@
 # IndoorFarming_IoT
 Smart farming has taken a leap from traditional farming as
-it brings reliability and predictability at our  ngertips. Automation and
+it brings reliability and predictability at our fingertips. Automation and
 cloud software systems are tools for smart farming. Smart farming emphasises
 on acquiring data collected by sensors and make productive use
 of it. Smart farming employs hardware (IoT) and software (SaaS) to
